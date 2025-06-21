@@ -1,4 +1,4 @@
-# App V2ray - 6月20日18.2M/S|免费SSR/Shadowrocket/Clash/V2ray节点推荐，VPN节点购买推荐  更新时间 2025-06-20 10:13:47
+# App V2ray - 6月21日20.3M/S|免费V2ray/SSR/Shadowrocket/Clash节点推荐，VPN节点购买推荐  更新时间 2025-06-21 07:28:46
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://appv2ray.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### Clash订阅链接
 
-- https://appv2ray.github.io/uploads/2025/06/0-20250620.yaml
-- https://appv2ray.github.io/uploads/2025/06/1-20250620.yaml
-- https://appv2ray.github.io/uploads/2025/06/2-20250620.yaml
-- https://appv2ray.github.io/uploads/2025/06/3-20250620.yaml
-- https://appv2ray.github.io/uploads/2025/06/4-20250620.yaml
+- https://appv2ray.github.io/uploads/2025/06/0-20250621.yaml
+- https://appv2ray.github.io/uploads/2025/06/1-20250621.yaml
+- https://appv2ray.github.io/uploads/2025/06/2-20250621.yaml
+- https://appv2ray.github.io/uploads/2025/06/3-20250621.yaml
+- https://appv2ray.github.io/uploads/2025/06/4-20250621.yaml
 
 ### V2ray订阅链接
 
-- https://appv2ray.github.io/uploads/2025/06/0-20250620.txt
-- https://appv2ray.github.io/uploads/2025/06/1-20250620.txt
-- https://appv2ray.github.io/uploads/2025/06/2-20250620.txt
-- https://appv2ray.github.io/uploads/2025/06/3-20250620.txt
-- https://appv2ray.github.io/uploads/2025/06/4-20250620.txt
+- https://appv2ray.github.io/uploads/2025/06/0-20250621.txt
+- https://appv2ray.github.io/uploads/2025/06/1-20250621.txt
+- https://appv2ray.github.io/uploads/2025/06/2-20250621.txt
+- https://appv2ray.github.io/uploads/2025/06/3-20250621.txt
+- https://appv2ray.github.io/uploads/2025/06/4-20250621.txt
 
 ### Sing-box订阅链接
 
-- https://appv2ray.github.io/uploads/2025/06/20250620.json
+- https://appv2ray.github.io/uploads/2025/06/20250621.json
 
 ## 更多clash节点订阅 ：
 
